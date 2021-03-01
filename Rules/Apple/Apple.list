@@ -21,3 +21,7 @@ IP-CIDR,144.178.0.0/19,Apple
 IP-CIDR,192.35.50.0/24,Apple
 IP-CIDR,198.183.17.0/24,Apple
 IP-CIDR,205.180.175.0/24,Apple
+
+# TestFlight
+DOMAIN,beta.apple.com,PROXY
+DOMAIN,testflight.apple.com,PROXY
