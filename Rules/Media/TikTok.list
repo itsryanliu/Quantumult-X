@@ -1,5 +1,6 @@
 # TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
+# HOST-SUFFIX,amemv.com,TikTok
 HOST-SUFFIX,byteoversea.com,TikTok
 HOST-SUFFIX,ibytedtos.com,TikTok
 HOST-SUFFIX,ibyteimg.com,TikTok
